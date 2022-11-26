@@ -14,4 +14,11 @@
 5 %% 2
 # PI - APROXIMAÇÃO JA PRONTA FEITA PELO R
 pi
+# RAIZ QUADRADA
+sqrt(16)
+# LOGARITMO
+log(10)
+log(16, base = 2)
+# PARENTESES
+(1 + 2) * 5
 
